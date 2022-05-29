@@ -1,0 +1,23 @@
+{
+  "translation": {
+    "signIn": "Sign in",
+    "forgotPassword": "Forgot password",
+    "createAccount": "Create account",
+    "forgotYourPassword": "Forgot your password?",
+    "createAnAccount": "Create an account",
+    "goBack": "Go back",
+    "emailOrPhone": "Email or Phone",
+    "password": "Password",
+    "submit": "Submit",
+    "help": "Help",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "logo": "logo",
+    "light": "light",
+    "dark": "dark",
+    "home1": "Successfully logged in!",
+    "home2": "Welcome to the Kidsloop Dashboard!",
+    "logout": "Logout",
+    "successForgot": "Check your email for the new password"
+  }
+}

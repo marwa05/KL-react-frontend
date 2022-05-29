@@ -1,0 +1,25 @@
+{
+  "defaultLanguage": "en",
+  "languageList": {
+    "default": {
+      "text": "Select language",
+      "flag": "Select language"
+    },
+    "en": {
+      "text": "English",
+      "flag": "🇬🇧 English"
+    },
+    "kr": {
+      "text": "한국어",
+      "flag": "🇰🇷 한국어"
+    },
+    "fr": {
+      "text": "Français",
+      "flag": "🇫🇷 Français"
+    },
+    "ar": {
+      "text": "العربية",
+      "flag": "🇹🇳 العربية"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "translation": {
+    "signIn": "Connexion",
+    "forgotPassword": "Saisir votre mot de passe",
+    "createAccount": "Créer un compte",
+    "forgotYourPassword": "Mot de passe oublié?",
+    "createAnAccount": "Créer un compte",
+    "goBack": "Revenir en arrière",
+    "emailOrPhone": "Email ou téléphone",
+    "password": "Mot de passe",
+    "submit": "Soumettre",
+    "help": "Aide",
+    "privacy": "Confidentialité",
+    "terms": "Termes",
+    "logo": "logo",
+    "light": "clair",
+    "dark": "foncée",
+    "home1": "Connexion réussie!",
+    "home2": "Bienvenue sur le tableau de bord Kidsloop!",
+    "logout": "Se déconnecter",
+    "successForgot": "Vérifiez votre e-mail pour le nouveau mot de passe"
+  }
+}

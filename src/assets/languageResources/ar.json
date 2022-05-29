@@ -1,0 +1,26 @@
+{
+  "translation": {
+    "signIn": "تسجيل الدخول",
+    "forgotPassword": "نسيت كلمة السر",
+    "createAccount": "إنشاء حساب",
+    "forgotYourPassword": "نسيت كلمة السر؟",
+    "createAnAccount": "انشئ حساب",
+    "goBack": "عُد",
+    "emailOrPhone": "بريد الكتروني او هاتف",
+    "password": "كلمه السر",
+    "submit": "إرسال",
+    "help": "مساعدة",
+    "privacy": "خصوصية",
+    "terms": "شروط",
+    "logo": "شعار",
+    "light": "فاتح",
+    "dark": "غامق",
+    "home1": "تم تسجيل الدخول بنجاح !",
+    "home2": "مرحبًا بك في Kidsloop Dashboard!",
+    "logout": "تسجيل الخروج",
+    "successForgot": "تحقق من بريدك الإلكتروني للحصول على كلمة المرور الجديدة",
+    "successLogin": "أهلا بك",
+    "successSignUp": "تم إنشاء الحساب بنجاح",
+    "successLogOut": "مع السلامة!"
+  }
+}

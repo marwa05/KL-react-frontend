@@ -1,0 +1,25 @@
+{
+  "translation": {
+    "signIn": "로그인",
+    "forgotPassword": "비밀번호 찾기 ",
+    "createAccount": "계정 만들기",
+    "forgotYourPassword": "비밀번호 분실?",
+    "createAnAccount": "회원가입",
+    "goBack": "돌아가다",
+    "emailOrPhone": "이메일이나 핸드폰",
+    "password": "비밀번호",
+    "submit": "제출하다",
+    "help": "돕다",
+    "privacy": "개인정보처리방침 ",
+    "terms": "이용약관",
+    "logo": "심벌 마크",
+    "light": "빛",
+    "dark": "어두운",
+    "home1": "로그인 성공!",
+    "home2": "Kidsloop 대시보드에 오신 것을 환영합니다.!",
+    "logout": "로그 아웃",
+    "successForgot": "이메일에서 새 비밀번호를 확인하세요.",
+    "successLogin": "Check",
+    "successSignUp": "어서 오십시오"
+  }
+}
