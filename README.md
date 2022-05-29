@@ -1,2 +1,9 @@
 # kidsLoop-frontend
-Created with CodeSandbox
+
+The following is my take on the KidsLoop's Code Test Assignment.
+
+I hope whoever is using this project will find it useful.
+
+Click here to see a live DEMO : https://codesandbox.io/s/kix4tz
+
+#HAPPY CODING#
