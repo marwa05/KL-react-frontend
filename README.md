@@ -1,4 +1,4 @@
-# kidsLoop-frontend
+# kl-react-frontend
 
 The following is my take on React Code Test Assignment.
 
